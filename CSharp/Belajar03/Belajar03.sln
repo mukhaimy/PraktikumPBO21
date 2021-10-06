@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belajar03", "Belajar03\Belajar03.csproj", "{035B06D4-2D20-44DD-A1B4-EC579A0B365A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035B06D4-2D20-44DD-A1B4-EC579A0B365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035B06D4-2D20-44DD-A1B4-EC579A0B365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035B06D4-2D20-44DD-A1B4-EC579A0B365A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035B06D4-2D20-44DD-A1B4-EC579A0B365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

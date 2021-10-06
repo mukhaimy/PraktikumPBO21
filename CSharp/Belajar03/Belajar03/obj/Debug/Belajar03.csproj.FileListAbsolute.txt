@@ -1,0 +1,6 @@
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\bin\Debug\Belajar03.exe.config
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\bin\Debug\Belajar03.exe
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\bin\Debug\Belajar03.pdb
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\obj\Debug\Belajar03.csprojResolveAssemblyReference.cache
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\obj\Debug\Belajar03.exe
+D:\Work2021\Kuliah Ganjil 21 22\Praktikum PBO\CSharp\Belajar03\Belajar03\obj\Debug\Belajar03.pdb
